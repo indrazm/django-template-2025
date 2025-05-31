@@ -1,2 +1,2 @@
-uvx ruff check
-uvx ruff format
+ruff check
+ruff format
